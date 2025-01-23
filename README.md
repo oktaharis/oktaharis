@@ -1,6 +1,6 @@
 # Halo semua! 
 
-Perkenalkan nama saya *Wida Mudrikah*.<br>
+Perkenalkan nama saya *Okta Haris Sutanto*.<br>
 
 Saya seorang *Siswa* di [SMKS Wikrama Bogor](https://smkwikrama.sch.id/).<br>
 
