@@ -4,7 +4,7 @@ Perkenalkan nama saya *Okta Haris Sutanto*.<br>
 
 Saya seorang *Siswa* di [SMKS Wikrama Bogor](https://smkwikrama.sch.id/).<br>
 
-Jika kamu tertarik untuk berkenalan dengan saya, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/okta-haris/) ku ya.
+Jika kamu tertarik untuk berkenalan dengan saya, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/okta-haris/) saya yaa 😹.
 
 - 🔭 I am currently working on <a href=“https://marketplace.casatech.id/”>Market Place Kemenkes</a>
 - 🌱 I'm currently learning about web development
